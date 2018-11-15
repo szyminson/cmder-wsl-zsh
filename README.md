@@ -1,5 +1,7 @@
 # Cmder config
 Just simply import cmder-config.xml in your cmder's settings and enjoy an easy to use, quake-style terminal configured to open WSL by default.
+## Requirements
+- [DejaVu Sans Mono for powerline](https://github.com/powerline/fonts/blob/master/DejaVuSansMono/DejaVu%20Sans%20Mono%20for%20Powerline.ttf) font installed.
 ## Hotkeys
 - `Ctrl`+`n` opens a zsh in WSL in a new tab,
 - `Ctrl`+`N` opens cmder's cmd in a new tab,
