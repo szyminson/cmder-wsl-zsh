@@ -29,7 +29,7 @@ It's a modified original agnoster theme to make it look better in Cmder and even
 - [Zsh-dircolors-solarized](https://github.com/joel-porquet/zsh-dircolors-solarized) Oh-My-Zsh plugin to fix dir colors in `ls`.
 
 
-## Differences
+## Differences to original agnoster
 - A lighter dir path segment,
 - An additional empty line before zsh's prompt,
 - A dir path shortening.
