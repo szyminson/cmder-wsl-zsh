@@ -1,4 +1,5 @@
 # Cmder config
+## Installation
 1. Import cmder-config.xml in your cmder's settings,
 2. Enjoy an easy to use, quake-style terminal configured to open WSL by default.
 ## Requirements
