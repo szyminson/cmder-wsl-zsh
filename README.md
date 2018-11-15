@@ -1,10 +1,14 @@
 # Cmder config
 Just simply import cmder-config.xml in your cmder's settings and enjoy an easy to use, quake-style terminal configured to open WSL by default.
 ## Hotkeys
-- `Ctrl + n` opens a zsh in WSL in a new tab
-- `Ctrl + N` opens cmder's cmd in a new tab
-- `Ctrl + |` divides window vertically
-- `Alt + Enter` toggles full screen
+- `Ctrl`+`n` opens a zsh in WSL in a new tab,
+- `Ctrl`+`N` opens cmder's cmd in a new tab,
+- `Ctrl`+`|` divides the window vertically,
+- `Ctrl`+
+- `Alt`+`Enter` toggles full screen,
+- `Ctrl`+`d` / `Ctrl`+`w` closes current console,
+
+
 
 
 
