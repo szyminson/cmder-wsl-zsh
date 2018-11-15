@@ -1,8 +1,11 @@
 # Cmder config
-Just simply import cmder-config.xml in your cmder's settings and enjoy an easy to use, quake-style terminal configured to open WSL by default.
+1. Import cmder-config.xml in your cmder's settings,
+2. Enjoy an easy to use, quake-style terminal configured to open WSL by default.
 ## Requirements
+- [Cmder](cmder.net) of course,
 - [DejaVu Sans Mono for powerline](https://github.com/powerline/fonts/blob/master/DejaVuSansMono/DejaVu%20Sans%20Mono%20for%20Powerline.ttf) font installed.
 ## Hotkeys
+- `Ctrl`+`` ` `` toggles Cmder,
 - `Ctrl`+`n` opens a zsh in WSL in a new tab,
 - `Ctrl`+`N` opens cmder's cmd in a new tab,
 - `Ctrl`+`Tab` switches between tabs,
@@ -17,7 +20,7 @@ Just simply import cmder-config.xml in your cmder's settings and enjoy an easy t
 
 
 # The agnoster-mod theme 
-It's a modified original agnoster theme to make it look better in cmder and even more readable.
+It's a modified original agnoster theme to make it look better in Cmder and even more readable.
 ## Differences
 - A lighter dir path segment,
 - An additional empty line before zsh's prompt,
