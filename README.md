@@ -4,7 +4,7 @@ Just simply import cmder-config.xml in your cmder's settings and enjoy an easy t
 - `Ctrl`+`n` opens a zsh in WSL in a new tab,
 - `Ctrl`+`N` opens cmder's cmd in a new tab,
 - `Ctrl`+`|` divides the window vertically,
-- `Ctrl`+
+- `Ctrl`+`🡆` / `Ctrl`+`🡄` moves current tab's divider right / left,
 - `Alt`+`Enter` toggles full screen,
 - `Ctrl`+`d` / `Ctrl`+`w` closes current console,
 
