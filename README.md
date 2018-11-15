@@ -1,3 +1,5 @@
+# Cmder-WSL-zsh
+![screenshot](screenshot.png)
 # Cmder config
 
 ## Requirements
