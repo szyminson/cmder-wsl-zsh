@@ -4,7 +4,7 @@
 - [Cmder](http://cmder.net) (for WSL mini version is enough),
 - [DejaVu Sans Mono for powerline](https://github.com/powerline/fonts/blob/master/DejaVuSansMono/DejaVu%20Sans%20Mono%20for%20Powerline.ttf) font installed.
 ## Installation
-1. Import cmder-config.xml in your cmder's settings,
+1. Import `cmder-config.xml` in your cmder's settings,
 2. Enjoy an easy to use, quake-style terminal configured to open WSL by default.
 ## Hotkeys
 - `Ctrl`+`` ` `` toggles Cmder,
@@ -23,6 +23,11 @@
 
 # The agnoster-mod theme 
 It's a modified original agnoster theme to make it look better in Cmder and even more readable.
+## Requirements
+- Zsh shell with [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh) installed.
+### Optional
+
+
 ## Differences
 - A lighter dir path segment,
 - An additional empty line before zsh's prompt,
