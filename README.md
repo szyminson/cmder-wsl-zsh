@@ -25,7 +25,8 @@
 It's a modified original agnoster theme to make it look better in Cmder and even more readable.
 ## Requirements
 - Zsh shell with [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh) installed.
-### Optional
+### Optional but recommended
+- [Zsh-dircolors-solarized](https://github.com/joel-porquet/zsh-dircolors-solarized) Oh-My-Zsh plugin to fix dir colors in `ls`.
 
 
 ## Differences
