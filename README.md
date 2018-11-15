@@ -1,14 +1,19 @@
 # Cmder config
 Just simply import cmder-config.xml in your cmder's settings and enjoy an easy to use, quake-style terminal configured to open WSL by default.
 ## Hotkeys
+- `Ctrl + n` opens a zsh in WSL in a new tab
+- `Ctrl + N` opens cmder's cmd in a new tab
+- `Ctrl + |` divides window vertically
+- `Alt + Enter` toggles full screen
+
 
 
 # The agnoster-mod theme 
 It's a modified original agnoster theme to make it look better in cmder and even more readable.
 ## Differences
-- A lighter dir path segment
-- An additional empty line before zsh's prompt
-- A dir path shortening
+- A lighter dir path segment,
+- An additional empty line before zsh's prompt,
+- A dir path shortening.
 ## Comparison
 ### The agnoster-mod
 ![agnoster-mod theme](agnoster-mod.png)
