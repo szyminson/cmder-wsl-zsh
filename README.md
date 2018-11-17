@@ -1,5 +1,5 @@
 # Cmder-WSL-zsh
-![screenshot](screenshot.png)
+![screenshot](img/screenshot.png)
 # Cmder config
 
 ## Requirements
@@ -41,6 +41,6 @@ It's a modified original agnoster theme to make it look better in Cmder and even
 - A dir path shortening.
 ## Comparison
 ### The agnoster-mod
-![agnoster-mod theme](agnoster-mod.png)
+![agnoster-mod theme](img/agnoster-mod.png)
 ### Original agnoster
-![agnoster theme](agnoster.png)
+![agnoster theme](img/agnoster.png)
