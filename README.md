@@ -32,7 +32,7 @@ It's a modified original agnoster theme to make it look better in Cmder and even
 
 
 ## Differences to original agnoster
-- A lighter dir path segment,
+- A brighter dir path segment,
 - An additional empty line before zsh's prompt,
 - A dir path shortening.
 ## Comparison
