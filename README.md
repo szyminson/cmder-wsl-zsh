@@ -1,3 +1,5 @@
+# Cmder-WSL-zsh
+![screenshot](screenshot.png)
 # Cmder config
 
 ## Requirements
@@ -25,12 +27,16 @@
 It's a modified original agnoster theme to make it look better in Cmder and even more readable.
 ## Requirements
 - Zsh shell with [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh) installed.
+
 ### Optional but recommended
 - [Zsh-dircolors-solarized](https://github.com/joel-porquet/zsh-dircolors-solarized) Oh-My-Zsh plugin to fix dir colors in `ls`.
-
+## Installation
+1. Copy `agnoster-mod.zsh-theme` into `~/.oh-my-zsh/themes` directory,
+2. Change theme to agnoster-mod in your `.zshrc` file.
+3. Relaunch zsh or use `source .zshrc` command to apply your changes.
 
 ## Differences to original agnoster
-- A lighter dir path segment,
+- A brighter dir path segment,
 - An additional empty line before zsh's prompt,
 - A dir path shortening.
 ## Comparison
