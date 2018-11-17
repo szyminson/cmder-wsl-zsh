@@ -27,6 +27,10 @@
 It's a modified original agnoster theme to make it look better in Cmder and even more readable.
 ## Requirements
 - Zsh shell with [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh) installed.
+## Installation
+1. Put agnoster-mod.zsh-theme into `~/.oh-my-zsh/themes` directory,
+2. Change theme to agnoster-mod in your `.zshrc` file.
+3. Relaunch zsh or use `source .zshrc` command to apply your changes.
 ### Optional but recommended
 - [Zsh-dircolors-solarized](https://github.com/joel-porquet/zsh-dircolors-solarized) Oh-My-Zsh plugin to fix dir colors in `ls`.
 
