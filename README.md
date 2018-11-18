@@ -7,6 +7,8 @@
 ## Installation
 1. Import `cmder-config.xml` in your cmder's settings,
 2. Enjoy an easy to use, quake-style terminal configured to open WSL by default.
+### Optional 
+You can add an ubuntu icon from this repo into your `%CMDER_ROOT%\icons` it'll be automatically assigned to every wsl tab you open. You can change icon path for each task in Settings -> Tasks. 
 ## Hotkeys
 - `Ctrl`+`` ` `` toggles Cmder,
 - `Ctrl`+`n` opens a zsh in WSL in a new tab,
