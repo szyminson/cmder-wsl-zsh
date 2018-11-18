@@ -2,7 +2,7 @@
 ![screenshot](img/screenshot.png)
 # Cmder config
 ## Requirements
-- [Cmder](http://cmder.net) (for WSL mini version is enough),
+- [Cmder](http://cmder.net) (for WSL -> mini version is enough),
 - [DejaVu Sans Mono for powerline](https://github.com/powerline/fonts/blob/master/DejaVuSansMono/DejaVu%20Sans%20Mono%20for%20Powerline.ttf) font installed.
 ## Installation
 1. Import `cmder-config.xml` in your cmder's settings,
