@@ -15,7 +15,7 @@ You can add an Ubuntu icon from this repo into your `%CMDER_ROOT%\icons` folder.
 - `Ctrl`+`N` opens cmder's cmd in a new tab,
 - `Ctrl`+`Tab` switches between tabs,
 - `Ctrl`+`|` divides the window vertically,
-- `Ctrl`+`🡆` / `Ctrl`+`🡄` switches between consoles inside of current tab,
+- `Ctrl`+`🡆` / `Ctrl`+`🡄` switches between consoles inside of a current tab,
 - `Ctrl`+`Shift`+`🡆` / `Ctrl`+`Shift`+`🡄` moves current tab's divider right / left,
 - `Alt`+`Enter` toggles full screen,
 - `Ctrl`+`d` / `Ctrl`+`w` closes current console.
