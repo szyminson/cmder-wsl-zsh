@@ -32,7 +32,7 @@ It's a modified original agnoster theme to make it look better in Cmder and even
 ### Optional but recommended
 - [Zsh-dircolors-solarized](https://github.com/joel-porquet/zsh-dircolors-solarized) Oh-My-Zsh plugin to fix dir colors in `ls`.
 ## Installation
-1. Copy `agnoster-mod.zsh-theme` into `~/.oh-my-zsh/themes` directory,
+1. Copy `agnoster-mod.zsh-theme` into `~/.oh-my-zsh/custom/themes` directory,
 2. Change theme to agnoster-mod in your `.zshrc` file.
 3. Relaunch zsh or use `source .zshrc` command to apply your changes.
 
